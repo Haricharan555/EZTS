@@ -1,0 +1,1 @@
+nma=str(input("Enetr ur name:"))
